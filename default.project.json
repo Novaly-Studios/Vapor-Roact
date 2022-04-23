@@ -1,0 +1,11 @@
+{
+  "name": "Vapor-Roact",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedFirst": {
+      "$ignoreUnknownInstances": true,
+      "$className": "ReplicatedFirst",
+      "Vapor-Roact": {"$path": "src"}
+    }
+  }
+}
